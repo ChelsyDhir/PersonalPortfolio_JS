@@ -1,0 +1,19 @@
+{
+  "name": "project-overview-for-nodejs-express",
+  "version": "1.0.0",
+  "description": "Personal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelsyDhir/PersonalPortfolio_JS.git"
+  },
+  "author": "Chelsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChelsyDhir/PersonalPortfolio_JS/issues"
+  },
+  "homepage": "https://github.com/ChelsyDhir/PersonalPortfolio_JS#readme"
+}
