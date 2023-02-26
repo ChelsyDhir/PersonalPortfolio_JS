@@ -1,16 +1,66 @@
 [
-    { "id": 0,
-      "project_name": "STEP-UP Loan Management System",
-      "description": "STEP-UP is a loan management system that involves an automated processing of loans to SMEs (Small and Medium Enterprises)  and a user’s portal that will enable them to post blogs, articles or reviews. Individuals or business owners are encouraged to enroll in a program that will assist them to  set-up or improve their products, services, and operations to elevate their productivity and competitiveness. The program includes seminars (like Food Processing, ICT/Electronics, Handicrafts) and a loan that they can borrow to kick-off or boost-up their business. The project focuses on the loan management (from application, approval, computation to payments) and the portal where borrowers can post their stories, like how they started or how their business is doing.      ",
-      "technologies": "PHP and Laravel 9",
-      "image_url": "img/Stepup1.png",
-      "git": "Chelsy1"
-    },
-    { "id": 1,
-      "project_name": "Random Quotes",
-      "description": "In this project, we'll build a random quote generator that displays a random quote to the user every time they press a button",
-      "technologies": "JavaScript",
-      "image_url": "img/randomQuote.png",
-      "git": "Chelsy2"
-    }
+  {
+    "id": 0,
+    "project_name": "STEP-UP Loan Management System",
+    "description": "STEP-UP is a loan management system that involves an automated processing of loans to SMEs (Small and Medium Enterprises)  and a user’s portal that will enable them to post blogs, articles or reviews. Individuals or business owners are encouraged to enroll in a program that will assist them to  set-up or improve their products, services, and operations to elevate their productivity and competitiveness. The program includes seminars (like Food Processing, ICT/Electronics, Handicrafts) and a loan that they can borrow to kick-off or boost-up their business. The project focuses on the loan management (from application, approval, computation to payments) and the portal where borrowers can post their stories, like how they started or how their business is doing.      ",
+    "technologies": ["PHP", "Laravel 9", "CSS", "HTML", "Bulma"],
+    "image_urls": [
+      "../img/stepupsmall.png",
+      "../img/stepup.png",
+      "../img/stepup1.png"
+    ],
+    "git": "https://github.com/VernaVLedda/Step_upLoanManagement"
+  },
+  {
+    "id": 1,
+    "project_name": "Random Quotes",
+    "description": "In this project, we'll build a random quote generator that displays a random quote to the user every time they press a button",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "image_urls": [
+      "../img/randomQuotesmall.png",
+      "../img/randomQuote2.png",
+      "../img/randomQuote3.png"
+    ],
+    "git": "https://github.com/ChelsyDhir/Project-1/tree/main/a_random_quote_slide-show-start/a_random_quote_slide-show-start"
+  },
+  {
+    "id": 2,
+    "project_name": "Pagination",
+    "description": "In this project, we call a long array of users and list them on the screen.To show definte number of 10 users at each page without using pagination function. Each page when clicked gives their own definete number of users.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "image_urls": [
+      "../img/paginationsmall.png",
+      "../img/pagination2.png",
+      "../img/pagination3.png"
+    ],
+    "git": "https://github.com/ChelsyDhir/CSIS3380-Lab2"
+  },
+  {
+    "id": 3,
+    "project_name": "UrbanHome",
+    "description": "This is an app where you can buy furniture and home decor online. You can shop for items and add them to your shopping cart. After payment, you'll be able to see the order information for the items.",
+    "technologies": ["java", "Android Studio"],
+    "image_urls": [
+      "../img/urbanhomesmall.png",
+      "../img/urbanhome1.png",
+      "../img/urbanhome2.png",
+      "../img/urbanhome3.png",
+      "../img/urbanhome4.png"
+    ],
+    "git": "https://github.com/ChelsyDhir/UrbanHome"
+  },
+  {
+    "id": 4,
+    "project_name": "DeliciousBites",
+    "description": "This is an app where you can order food online in single or multiple orders. You can do window shopping. This online Food Ordering website is purely based upon PHP as back-end and HTML, CSS for Front-end",
+    "technologies": ["PHP", "Laravel 9", "HTML", "CSS"],
+    "image_urls": [
+      "../img/deliciousbites.png",
+      "../img/deliciousbites1.png",
+      "../img/deliciousbites2.png",
+      "../img/deliciousbites3.png",
+      "../img/deliciousbites4.png"
+    ],
+    "git": "https://github.com/ChelsyDhir/DeliciousBitesPHP"
+  }
 ]
