@@ -2,8 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const { render } = require('pug');
 
-const projects = require('../Project Overview for Nodejs Express/data.json');
-
+const projects = require('../PersonalPortfolio_ChelsyC_300342149/data.json');
 const app = express();
 const port = 3000;
 
@@ -32,6 +31,13 @@ app.get('/project/:id', (req, res) => {
 app.get('/projects', (req, res) => {
     res.redirect('/');
 })
+
+
+app.get('https://chelsydhir.github.io/PersonalPortfolio_JS/', (req, res) => {
+    res.redirect('/');
+})
+
+https://chelsydhir.github.io/PersonalPortfolio_JS/
 
 app.get('/projects/:id', (req, res) => {
     const id = req.params.id;
