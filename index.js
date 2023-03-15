@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const { render } = require('pug');
 
-const projects = require('../PersonalPortfolio_ChelsyC_300342149/data.json');
+const projects = require('./data.json');
 const app = express();
 const port = 3000;
 
